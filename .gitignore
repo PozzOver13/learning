@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ad-hoc
+kindle_highlights/My Clippings.txt

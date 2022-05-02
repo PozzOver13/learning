@@ -1,0 +1,9 @@
+# Più Memoria
+- la memoria era considerata una delle cinque parti di cui constava la retorica stessa, secondo il seguente schema: *    inventio: trovare cosa dire; *    dispositio: mettere in ordine cio che si e trovato; *    elocutio: adattare le parole piu adeguate e aggiungere l'ornamento delle figure; *    memoria: ricordare saldamente cosa dire e quando dirlo; *    pronunciatio: recitare il discorso; controllare la dizione e la gestualita.
+- *    memoria a breve termine (l'informazione viene ricordata per un periodo che va da pochi secondi a due settimane circa); *    memoria a lungo termine (l'informazione viene ricordata per molto tempo e a volte per tutta la vita).
+- L'obiettivo della nostra ricerca e proprio questo: ricordare per sempre un'informazione acquisita una sola volta.
+- La quantita di dati che si puo apprendere in un intervallo di tempo di due secondi tra un'informazione e l'altra viene definita Span.
+- esagerazione, movimento, associazione inusuale e coinvolgimento emotivo. In presenza di tutti e quattro, l'informazione si radica nella memoria a lungo termine. Nel caso in cui manchi anche solo uno di questi, si immette nella memoria a breve termine.
+- Da un punto di vista neurologico, l'esagerazione porta a un aumento dell'attenzione e a una maggiore attivita cerebrale, con un conseguente effetto positivo sul processo di ritenzione mnemonica.
+- L'associazione inusuale si verifica quando un elemento viene abbinato a un altro o ad altri elementi, senza che esistano tra essi affinita, prossimita logica o una consuetudine all'essere associati tra loro.
+- ogni informazione che si vuole ricordare va associata a un'immagine concreta (evitando i concetti astratti) le cui caratteristiche saranno esagerazione, movimento, associazione inusuale e coinvolgimento emotivo.

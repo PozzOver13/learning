@@ -1,0 +1,36 @@
+# 4 ore alla settimana
+- La questione allora e: Come raggiungere lo stile di vita milionario di assoluta liberta senza prima avere 1.000.000 di dollari?
+- Parto dall'idea che stiate soffrendo di penuria di tempo, di paura strisciante, o - peggio ancora - di una tollerabile e confortevole esistenza priva di soddisfazioni.
+- Cercate di essere produttivi invece che impegnati.
+- non date alla gente la possibilita di dire no. La maggior parte delle persone e veloce nel fermarvi prima che cominciate, ma e esitante a bloccarvi la strada se vi state gia muovendo.
+- La scelta e tra la moltiplicazione dei risultati utilizzando i punti di forza o il miglioramento incrementale aggiustando i punti deboli che, al meglio, diventano mediocrita.
+- La maggior parte delle persone preferira l'infelicita all'incertezza.
+- Cio che abbiamo piu timore di fare di solito e cio che abbiamo piu bisogno di fare. Come ho sentito dire, il successo di una persona nella vita generalmente puo essere misurato dal numero di conversazioni sgradevoli che decide di sostenere. Decidetevi a fare ogni giorno una cosa che vi fa paura.
+- Se siete insicuri, sapete una cosa? Lo sono anche tutti gli altri. Non sovrastimate la competizione e non vi sottovalutate. Siete meglio di quanto pensate.
+- La vetta e poco frequentata. Il 99 per cento delle persone che vivono su questo pianeta sono convinte di non essere in grado di fare grandi cose, cosi puntano alla mediocrita. La competizione e dunque piu feroce attorno agli obiettivi <<realistici>>, che cosi, paradossalmente, richiedono piu tempo ed energie.
+- La domanda che dovreste formulare non e <<Che cosa voglio?>>, <<Quali sono i miei obiettivi?>>, bensi <<Che cosa mi emozionerebbe?>>.
+- Se la fase successiva comporta una qualche forma di ricerca, contattate qualcuno che conosce la risposta invece di passare troppo tempo sui libri o a navigare on-line, cosa che puo trasformarsi in paralisi indotta da analisi.
+- L'efficacia consiste nella capacita di fare le cose che vi avvicinano ai vostri obiettivi. L'efficienza indica invece l'esecuzione di un determinato compito (piu o meno importante) nella maniera piu economica possibile. Essere efficienti senza preoccuparsi dell'efficacia e la modalita di default universale.
+- Essere selettivi - fare meno - e la via per la produttivita. Concentratevi sulle poche cose importanti e ignorate il resto.
+- La soluzione migliore consiste nel fare ricorso a entrambi: identificare i pochi compiti critici che contribuiscono alla maggior parte delle entrate e programmarli con scadenze molto ravvicinate e definite.
+- <<Se questa fosse l'unica cosa che portero a termine oggi, sarei soddisfatto della mia giornata?>>.
+- Eliminate prima di delegare. Non automatizzate mai qualcosa che puo essere eliminato e non delegate mai qualcosa che puo essere automatizzato o semplificato.
+- il costo all'ora non e il principale determinante del costo finale. Badate al costo per obiettivo.
+- Si ha la tentazione di puntare subito il dito contro qualcun altro e sbraitare, ma la maggior parte dei capi principianti ripete gli stessi errori che commisi io.
+- Chiedete a un AV straniero di riformulare i compiti per confermare di averli compresi prima di incominciare. 3.
+- Chiedete a un AV straniero di riformulare i compiti per confermare di averli compresi prima di incominciare.
+- http://assistu.com/client/client_how.shtlm http://www.yourvirtualresource.com/looking_for_a_va.htm http://ivaa.org/RFP/index.php http://www.canadianva.net/files/va-locator.html (in Canada) www.onlinebusinessmanager.com
+- Innanzi tutto, le priorita: flusso di cassa e tempo. Con queste due monete, tutte le altre cose diventano possibili. Senza, niente e possibile.
+- Personalmente punto a un mark-up pari a 8-10 volte il costo, per cui un prodotto che vendo a 100 dollari non puo costarmi piu di 10-12,50 dollari.
+- Pensate stretto e profondo piuttosto che in grande.
+- Fate della vostra base clienti una sorta di club esclusivo e trattate bene i soci una volta che sono stati accettati.
+- L'espediente per tagliare il guinzaglio e stato semplice: invece del permesso ha chiesto perdono dopo.
+- Per creare la leva giusta per liberarci dai ceppi, faremo due cose: dimostrare il beneficio per l'impresa del lavoro a distanza e rendere troppo costoso o straziante rifiutare una richiesta in tal senso.
+- Sherwood vuole che l'azienda investa il piu possibile su di lui in modo che la perdita sia maggiore nel caso lasciasse.
+- Io ho una risposta personale per entrambe - amare, essere amati, e non smettere mai di imparare - ma non mi aspetto che sia la ricetta universale.
+- Gli americani che vanno all'estero per la prima volta rimangono spesso scioccati quando scoprono che, nonostante tutti i progressi degli ultimi trent'anni, molte persone straniere parlano ancora una lingua straniera. DAVE BARRY
+- Gli adulti chiedono di continuo ai bambini che cosa vogliono fare da grandi perche sono alla ricerca di idee. PAULA POUNDSTONE
+- Eccovi un elenco degli sbagli che farete. Non lasciatevi prendere dal nervosismo. Fa tutto parte del
+- Eccovi un elenco degli sbagli che farete. Non lasciatevi prendere dal nervosismo. Fa tutto parte del processo.
+- DANZA LENTA
+- Faresti meglio a rallentare. Non danzare cosi veloce. Il tempo e breve. La musica non durera.

@@ -1,0 +1,5 @@
+# Il deserto dei Tartari
+- Fino allora egli era avanzato per la spensierata eta della prima giovinezza, una strada che da bambini sembra infinita, dove gli anni scorrono lenti e con passo lieve, cosi che nessuno nota la loro partenza.
+- Ma a un certo punto, quasi istintivamente, ci si volta indietro e si vede che un cancello e stato sprangato alle spalle nostre, chiudendo la via del ritorno. Allora si sente che qualche cosa e cambiato, il sole non sembra piu immobile ma si sposta rapidamente, ahime, non si fa tempo a fissarlo che gia precipita verso il confine dell'orizzonte, ci si accorge che le nubi non ristagnano piu nei golfi azzurri del cielo ma fuggono accavallandosi l'una sull'altra, tanto e il loro affanno; si capisce che il tempo passa e che la strada un giorno dovra pur finire.
+- Sentira il battito del tempo scandire avidamente la vita.
+- il buono era indietro, molto indietro e lui ci e passato davanti senza sapere. Oh, e troppo tardi ormai per ritornare, dietro a lui si amplia il rombo della moltitudine che lo segue, sospinta dalla stessa illusione, ma ancora invisibile sulla bianca strada deserta.

@@ -1,0 +1,21 @@
+# Lalchimista
+- accettiamo una verita solo dopo averla negata nel profondo della nostra anima;
+- Perche anche i pastori, come i marinai o i commessi viaggiatori, sanno che c'e sempre un paese o una citta dove vive qualcuno capace di far loro dimenticare
+- Perche anche i pastori, come i marinai o i commessi viaggiatori, sanno che c'e sempre un paese o una citta dove vive qualcuno capace di far loro dimenticare la gioia di girovagare per il mondo.
+- 'E la possibilita di realizzare un sogno che rende la vita cosi interessante
+- Sembra che tutti abbiano un'idea precisa del modo in cui dobbiamo vivere la nostra vita. Anche se non sanno mai come devono condurre la loro.
+- "Il fatto che, a un certo momento dell'esistenza, perdiamo il controllo delle nostre vite, le quali cominciano a essere condizionate esclusivamente da un destino che reputiamo immutabile. E questa la menzogna piu grande del mondo."
+- e decisamente piu proficuo passare il proprio tempo in compagnia dei libri, che raccontano vicende incredibili ogniqualvolta siamo disposti ad ascoltarle.
+- All'inizio della gioventu, ogni individuo sa qual e la propria Leggenda Personale. In quel periodo della vita, tutto e chiaro e possibile, e gli uomini non temono di sognare e di desiderare ogni cosa che possa rendere felice e appagante la propria esistenza. Ma, con il passare del tempo, alcune forze misteriose sembrano scatenarsi, quasi per dimostrare l'impossibilita di realizzare la Leggenda Personale."
+- All'improvviso, ebbe la consapevolezza di poter guardare il mondo come la vittima disperata di un furfante, oppure come un avventuriero alla ricerca di un
+- All'improvviso, ebbe la consapevolezza di poter guardare il mondo come la vittima disperata di un furfante, oppure come un avventuriero alla ricerca di un tesoro.
+- 'Nessuno deve aver timore dell'ignoto, perche tutti posseggono le doti per conquistare tutto cio che desiderano.'
+- non vivo ne nel passato ne nel futuro. Agisco soltanto nel presente, ed e cio che mi interessa. Ricorda: se riuscirai a vivere sempre nel presente, sarai un uomo felice.
+- Ma lui aveva scelto di correre rischi enormi, quando aveva venduto le pecore per perseguire la propria Leggenda Personale. E, come gli aveva insegnato il cammelliere, un giorno era perfettamente identico a un altro per morire. Ogni giornata era fatta per essere vissuta o per lasciare questo mondo. Tutto dipendeva da una sola parola: "Maktub."
+- "Il male non e cio che entra nella bocca di un uomo," disse l'Alchimista, "bensi quello che ne esce."
+- Le persone hanno paura di inseguire i sogni piu grandi, perche pensano di non riuscire a raggiungerli - o perche credono di non meritare una simile opportunita.
+- "Una ricerca comincia con la Fortuna del Principiante. E termina con la Prova del Conquistatore." Il ragazzo si rammento di un vecchio detto del suo paese: "L'ora piu buia e sempre quella che precede il sorgere del sole."
+- "Quando ci troviamo davanti a grandi tesori, non ce ne accorgiamo mai. E sai per quale motivo? Perche gli esseri umani non credono ai tesori
+- "Chi persegue la propria Leggenda Personale conosce tutto cio di cui abbisogna. Soltanto una cosa puo rendere irrealizzabile
+- "Chi persegue la propria Leggenda Personale conosce tutto cio di cui abbisogna. Soltanto una cosa puo rendere irrealizzabile un sogno: la paura di fallire."
+- Siamo noi ad alimentare l'Anima del Mondo - e il luogo in cui viviamo si rivelera piu bello o piu squallido, se noi saremo migliori o peggiori.

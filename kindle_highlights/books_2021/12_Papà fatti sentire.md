@@ -1,0 +1,49 @@
+# Papà fatti sentire
+- ogni rivoluzione culturale si gioca su un terreno fatto di molte variabili, tra le piu incisive delle quali c'e il tempo.
+- Lui sa che non e padre poiche genera: sa che diventa padre chi protegge la vita altrui - anche dalla propria aggressivita, perche persino volere che tuo figlio sia come ce l'hai in mente tu e ucciderlo -, conquistando cosi la devozione dei suoi figli.
+- La religione cristiana pone infatti la maggior parte dell'enfasi sulla figura del Figlio e di Maria, lasciando a Giuseppe un ruolo di comprimario come compagno non generativo e attribuendo il titolo di Padre a Dio, alzando cosi di molto l'asticella.
+- Perche intanto iniziamo a dire che mai si impone un castigo senza esplicitare espressamente per quando e fissata la sua conclusione. Mai. Perche diventa una tortura, non conoscere la durata della propria condanna: le fa automaticamente assumere un sapore di fine pena mai.
+- Lo stravolgimento introdotto dalla Rivoluzione francese - quando i valori di liberta, uguaglianza e fraternita disarcionarono i concetti di gerarchia, soggezione e potere
+- Che sia perlopiu concentrato su cosa crede di dover fare, senza essersi posto fino in fondo il problema di capire cosa serva a un bambino da parte di suo padre?>>
+- tra i dati piu vistosi, gli uomini del 2017 mettono sul podio delle proprie aspirazioni l'investimento sulla famiglia; i numeri al femminile rivelano al contrario che le donne mettono al primo posto se stesse e la realizzazione personale
+- L'arte di alternare presenza e assenza, offerta di aiuto e astensione passa da qui, dal fatto sofisticato e raffinatissimo di sapersi dosare usando un unico criterio: che cosa serve e a chi?
+- Sta nell'insegnare a saper chiedere delle cose buone per se. A queste condizioni, va sempre detto si.
+- La vera rivoluzione cui sono chiamati i papa e diventare genitori capaci di farsi sentire.
+- Va tutto bene finche si tratta di fare amorevolmente fronte agli arrossamenti cutanei, ma quando tu, papa, urlerai suonera male alle orecchie di tutti: quelle della tua compagna, persino alle tue. Per non parlare di quelle di tuo figlio, che non trovera la tua performance da cattivo molto riuscita. Griderai, ma non ti si dara piu di tanto ascolto. Penserai di avere urlato a voce troppo bassa, o con scarsa convinzione.
+- Ne e prova il fatto che poi ci siamo ribellati e abbiamo trasgredito, ne e specularmente prova il fatto che oggi i figli non ne hanno minimamente bisogno: hanno dei genitori che vogliono esattamente le stesse cose che desiderano loro per se stessi, ovvero di stare bene ed essere felici, per cui figuriamoci se occorra scontentare, deludere o fare la guerra a qualcuno con cui sei cosi allineato, alleato e complice.
+- no, oggi i ragazzi non studiano perche studiare e silenzio, concentrazione, solitudine e fatica e loro semplicemente non sono programmati in tal senso.
+- La loro forza sta precisamente nell'essere virili portatori di un tesoro emotivo e affettivo
+- Non si sono inteneriti, perche non sono piu capaci di fare i duri. La loro forza sta precisamente nell'essere virili portatori di un tesoro emotivo e affettivo che desiderano intenzionalmente mettere al servizio della qualita delle loro relazioni significative.
+- Un figlio che sfida la norma pero non sta parlando con sua madre, sta parlando con suo padre. Ed e a lui che chiede una risposta.
+- Cosa ci fai con un piccolo se non gli offri come compagno di gioco il tuo, di piccolo. Quello che sei stato un tempo, che non ha urgenza di guardare il cellulare, di tenere sott'occhio l'orologio; cosa ci fai con un bambino se sei un adulto che ha sempre una nuova risoluzione dell'Onu da emettere da li a mezz'ora?
+- Da dove li osservo io, una delle caratteristiche che i papa contemporanei vorrebbero che riconoscessimo loro e che ce la mettono tutta.
+- L'idea nascosta tra le pieghe del figlio che realizza se stesso non e tanto - ancora una volta, non solo - che in questo modo mette la corona d'alloro anche a suo padre e a sua madre come genitori riusciti, quanto che i figli debbano oggi piu che mai essere semi che producono molto frutto e danno molti pochi problemi.
+- Solo che la sua mamma ha bisogno che lui non abbia bisogno e, che se proprio ce l'ha, che non abbia bisogno di lei. Che lo assolva nei modi che lei gli offre, non tramite
+- Solo che la sua mamma ha bisogno che lui non abbia bisogno e, che se proprio ce l'ha, che non abbia bisogno di lei. Che lo assolva nei modi che lei gli offre, non tramite lei.
+- La vera performance e non farcela e la mattina dopo comunque tirarsi su dal letto, passare dallo specchio per poi uscire. E vivere.
+- E sono anche molto in linea con il loro tempo: i loro, di papa, mica si sarebbero chiesti se il figlio sarebbe mai incorso in qualche trauma e come avrebbero potuto fare per risparmiarglielo
+- Io credo che sia al contrario un ottimo augurio, sperare che a un certo punto (meglio prima che dopo!) qualcosa vada anche storto. Per imparare che non si muore davvero, che non si impazzisce, che non e finita li. Per imparare che andare un po' bene e un po' male e il massimo grado di benessere auspicabile.
+- Dico "sono il padre di Tizio, buongiorno" e come tutte, come tutti, mi imbarco in una vaga chiacchierata a proposito di una persona, mio figlio, che entrambi conosciamo poco e male, e il cui destino sfugge giorno dopo giorno alle nostre mani, ovviamente, perche cosi e la vita>>.
+- l'ultimo dossier del 2016 introduce il trend della <<crisi del diciassettesimo anno>>, che e la durata media di un matrimonio in Italia.
+- C'erano state due litigate grosse con delle parole dette per ferire che erano andate a segno.
+- Abbiamo cullato l'idea che far crescere
+- Abbiamo cullato l'idea che far crescere i figli a papa piu presenti, accoglienti e dialoganti avrebbe dato vita a famiglie piu felici e che in quelle famiglie felici sarebbe andato tutto bene, e non e stato vero.
+- Essere adulti significa dunque darsi in pasto nel senso di mettersi a servizio, avere in esubero, donare con generosita qualcosa di cui si dispone talmente in abbondanza (avventure, mondi interiori, simboli, ferite, finali e nuovi inizi), da poter essere spartito senza temere che se ne esauriscano le scorte.
+- Era evidente, lo scarto tra gli adulti e i giovani. Anche per questo i giovani volevano diventare adulti.
+- La fregatura sta infatti nel presupposto che cio che un padre fa agli occhi del figlio costituisce un fatto, un dato di realta. Non c'e cammino a ritroso, non c'e ricerca verso le intenzioni per cui e stata fatta una certa cosa: c'e la cosa, non le ragioni per cui la si e fatta.
+- Per me, oggi, il salto definitivo dal vetusto modello maschile e paterno si attua rinunciando al gusto tutto virile di essere uomini identificandosi con la cosa giusta da fare. Raffinando cioe un po' l'idea che non siamo quello che facciamo, perche se fosse cosi non si salverebbe nessuno di noi.
+- Il mistero dei papa agli occhi del figlio sta nell'intercapedine tra cio che fanno e come stanno nel farlo. I ragazzi oggi sono cosi competenti da poterci finalmente insegnare che il <<cosa>> ha sempre quotazioni molto piu basse del <<come>>.
+- Abbiamo abbassato lo sguardo dei giovani dal <<davanti>> al <<di fianco>> e, come dice Stefano Cirillo, taluni tra i padri sono diventati commilitoni: li riconosci perche i figli li chiamano per nome.
+- Vogliono che i loro padri parlino di se, della loro piu profonda intimita e del luogo dove hanno messo le debolezze: <<Dov'e quel luogo per te? Come e fatto? E sempre stato li, e cambiato nel tempo? Ne ha contenute sempre di piu, o di meno?>>.
+- Ho in mente che lasciar trasparire cosa piaccia e interessi sia come una filigrana da guardare in controluce, che riveli di piu chi siamo. Che sia il segno della nostra unicita e autenticita.
+- Se bastasse farla facile, sarebbe facile.
+- Vogliono sentirli parlare di quello che non vedono, che annusano ma di cui colgono solo le note di testa. Ancora una volta: <<Come stai, papa? Come ti senti? Che effetto ti fa la vita? Come sei apparecchiato, dentro?>>.
+- Come per Tommaso, il nostro milanista, i papa fanno male a questi figli quando producono tradimento rendendosi emotivamente opachi, intimamente irriconoscibili.
+- Sul piano qualitativo, ci stanno lavorando. Per loro mollare la testa e scendere ai piani bassi della pancia e davvero un'operazione che va imparata o re
+- Sul piano qualitativo, ci stanno lavorando. Per loro mollare la testa e scendere ai piani bassi della pancia e davvero un'operazione che va imparata o re-imparata, che non gli viene naturale.
+- Dimettersi dal fare i padri, se si ritiene che per quello non occorrano necessariamente i padri. Esserlo, insostituibilmente.
+- La proposta che vi faccio, perche me l'hanno portata i ragazzi e le ragazze che incontro nel mio lavoro, dunque e questa: essere papa lasciandosi attraversare dall'incontro con il figlio. Essere li. Portare presenza, portare se stessi.
+- Si ricordera in maniera indelebile come il papa sembrasse contento quanto lui. Come fosse li volentieri. Come a entrambi piacessero le stesse cose e il fatto di condividerle.
+- Qual e il rischio, oltre allo scontro dentro la coppia? Che uno dei nuovi insegnamenti delle madri diventi per i figli quello della critica al papa.
+- Ho dunque in mente non un papa che porti il figlio fuori di casa allo scopo di introdurlo nel mondo bensi che, dopo un incontro intimo e profondo fatto di arrivarsi vicini senza tradire le promesse di tenerezza del passato, padre e figlio portino il loro sodalizio emotivo fuori, dove trovare altri come loro, a cui offrire lo spettacolo del proprio stile.
+- Per provare a frenare la corsa della pallina sul piano inclinato, accogliamo dunque l'invito dei nostri figli a investire non sul fare quello che si sentono, ma a sentire come stanno.

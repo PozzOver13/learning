@@ -1,0 +1,2 @@
+# Particelle familiari Le avventure della fisica e del bosone di Higgs con Pulce al seguito
+- Questo significa entrare nel dominio delle due discipline che nel secolo scorso hanno rivoluzionato la nostra visione del mondo: la meccanica quantistica, che governa il comportamento del microscopico; e la teoria della relativita, che regola il comportamento degli oggetti che si muovono molto velocemente, proprio come le particelle che studiamo>>.

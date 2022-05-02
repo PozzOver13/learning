@@ -1,0 +1,3 @@
+# Le buone maniere
+- sono invece un bene solido, prevengono molti danni reali, creano, adornano, rafforzano l'amicizia; tengono l'odio tra confini sicuri; favoriscono il buonumore e la bonta nelle famiglie, dove la mancanza di modi gentili e causa prima della discordia>>.
+- Un altro termine che nell'uso si avvicina a <<cortese>> e la parola <<gentile>>, che originariamente significava solo <<appartenente a una data famiglia>>; per esempio, <<stemma gentilizio>> equivale a <<stemma della famiglia>>. Si sottolineava l'appartenenza a una data famiglia, cioe alla propria <<gente>>, soprattutto quando la famiglia era nota perche distinta, rispettabile, prestigiosa.

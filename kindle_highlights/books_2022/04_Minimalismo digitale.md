@@ -1,0 +1,18 @@
+# Minimalismo digitale
+- Qualcosa nell'imprevedibilita stimola in noi il rilascio di una maggiore quantita di dopamina, un neurotrasmettitore fondamentale nella regolazione dei desideri.
+- whistleblower Tristan Harris,
+- spesso il costo cumulativo delle cose non essenziali con cui riempiamo la nostra vita puo essere di gran lunga superiore ai piccoli benefici che ogni singolo prodotto o servizio promette.
+- definiscono la solitudine come uno stato soggettivo in cui la mente e libera dai condizionamenti di altre menti.
+- "Tutti i problemi dell'umanita hanno origine nell'incapacita dell'uomo di rimanere seduto in silenzio, da solo, in una stanza"[14] scrisse Blaise Pascal alla fine del XVII secolo.
+- L'esame degli studi sull'argomento ha portato Harris a individuare tre vantaggi fondamentali che la solitudine puo offrire: "nuove idee; una comprensione di se; la vicinanza agli altri".
+- in media, prendeva in mano il telefono circa quaranta volte al giorno, per un totale di tre ore al giorno trascorse a guardare lo schermo.
+- Le persone giovani, per esempio, si preoccupano che una disconnessione, anche se temporanea, possa portarli a perdere qualcosa, magari migliore di quello che stanno facendo. I genitori si preoccupano che i propri figli non riescano a contattarli in caso di emergenza. Chi viaggia cerca indicazioni e consigli su dove mangiare. Chi lavora teme di perdere un'occasione di lavoro se non e raggiungibile. E tutti, in segreto, hanno paura di annoiarsi.
+- L'obiettivo e convincervi che e del tutto ragionevole pensare di poter vivere senza avere sempre il telefono con se.
+- "Solo i pensieri che hanno camminato hanno valore."
+- Gli sforzi richiedono impegno, ma la ricompensa e notevole. Se cammino con regolarita, sono semplicemente piu felice e piu produttivo, lo capisco da molti aspetti.
+- Questi taccuini rivestono un ruolo diverso: sono l'occasione per scrivere a me stesso una lettera, quando mi trovo a dover prendere una decisione complessa o a fronteggiare un'emozione difficile o un impeto di ispirazione.
+- In effetti molti minimalisti si accorgono che le abitudini digitali che un tempo ritenevano fondamentali nell'organizzazione della giornata, all'improvviso appaiono loro frivole, adesso che sono piu consapevoli nella scelta delle attivita per il tempo libero. Se si riempie il vuoto, non si ha piu bisogno di distrazioni che aiutino a evitare di guardarlo.
+- L'inattivita mi porta a una noia deprimente
+- Come? Dici che l'impegno che dedichi alle sedici ore di tempo libero sottrarrebbe energia alle otto ore lavorative? Non e cosi. Al contrario, accrescerebbe di sicuro il valore di quelle otto ore. Una delle cose principali da imparare e che le capacita mentali riescono a sostenere un'attivita impegnativa e continua; non si stancano come i muscoli delle braccia o delle gambe. Tutto cio di cui hanno bisogno e la varieta, non il riposo, se non quando si dorme.
+- Probabilmente una delle principali tendenze in questo settore e il fenomeno "social fitness", in cui, nelle parole di un esperto del settore sportivo, "l'allenamento fisico e cambiato, trasformandosi da un'attivita privata che si pratica in palestra a un'interazione sociale che avviene in un centro o per strada."
+- Un programma stagionale per il tempo libero si organizza tre volte all'anno: al principio dell'autunno (ai primi settembre), all'inizio dell'inverno (gennaio) e nei primi giorni dell'estate (primi di maggio). Apprezzo la programmazione stagionale perche sono un accademico e cosi l'organizzazione e in armonia con il calendario universitario

@@ -1,0 +1,12 @@
+# Le otto montagne
+- si alzo da tavola, senza piu voglia di sembrare quello che non era.
+- Lei mi guardava con malinconia, come se mi stesse perdendo. Credeva davvero che il silenzio tra due persone fosse l'origine di tutti i guai.
+- e impossibile trasmettere a chi e rimasto a casa quel che si prova lassu.
+- Lui emotivo, autoritario, insofferente, lei forte e tranquilla e conservatrice.
+- Era un uomo che non conoscevo piu, ma da qualche parte conteneva un ragazzino che conoscevo bene.
+- Diceva cosi: che l'estate cancella i ricordi proprio come scioglie la neve, ma il ghiacciaio e la neve degli inverni lontani, e un ricordo d'inverno che non vuole essere dimenticato.
+- Lo trovavo piu loquace che mai, come uno che ha taciuto troppo a lungo e ha accumulato una quantita di cose da raccontare.
+- siete voi di citta che la chiamate natura. E cosi astratta nella vostra testa che e astratto pure il nome. Noi qui diciamo bosco, pascolo, torrente, roccia, cose che uno puo indicare con il dito. Cose che si possono usare. Se non si possono usare, un nome non glielo diamo perche non serve a niente.
+- Gli innamorati, pensai: e bello che esistano al mondo, ma dentro una stanza ti fanno sempre sentire di troppo.
+- Non sapevo se fossi stato io a illudermi o lei a non averle mantenute,
+- Avevano dovuto chiedere un altro prestito. Debiti nuovi per pagare i debiti vecchi.

@@ -1,0 +1,2 @@
+# Finalmente ho capito la statistica I metodi gli strumenti le rappresentazioni grafiche le tecniche i concetti spiegati a tutti con la massima chiarezza
+- Uno l'abbiamo gia indicato (e scartato): si tratta dell'approccio soggettivo, chiamato anche "baynesiano", che va tenuto sempre a mente (se non altro come esempio di che cosa non e scientifico), ma che non approfondiremo a causa della sua scarsa utilizzabilita; quindi archiviamolo definitivamente.

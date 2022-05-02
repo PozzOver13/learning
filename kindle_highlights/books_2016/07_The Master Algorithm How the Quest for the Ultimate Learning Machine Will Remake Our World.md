@@ -1,0 +1,6 @@
+# The Master Algorithm How the Quest for the Ultimate Learning Machine Will Remake Our World
+- Symbolists view learning as the inverse of deduction and take ideas from philosophy, psychology, and logic. Connectionists reverse engineer the brain and are inspired by neuroscience and physics. Evolutionaries simulate evolution on the computer and draw on genetics and evolutionary biology. Bayesians believe learning is a form of probabilistic inference and have their roots in statistics. Analogizers learn by extrapolating from similarity judgments and are influenced by psychology and mathematical optimization. Driven
+- "All happy families are alike; each unhappy family is unhappy in its own way."
+- data mining means "torturing the data until it confesses."
+- The entropy of a set of objects is a measure of the amount of disorder in it. If a group of 150 people includes 50 Republicans, 50 Democrats, and 50 independents, its political entropy is maximum. On
+- You've met the five tribes of machine learning and their master algorithms: symbolists and inverse deduction; connectionists and backpropagation; evolutionaries and genetic algorithms; Bayesians and probabilistic inference; analogizers and support vector machines.
