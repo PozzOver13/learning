@@ -130,3 +130,6 @@ dmypy.json
 
 # Ad-hoc
 kindle_highlights/My Clippings.txt
+
+# Pycharm
+.idea/
