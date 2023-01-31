@@ -94,3 +94,29 @@ A_system = np.hstack((A, b.reshape((2, 1))))
 
 plot_lines(A_system)
 plt.show()
+
+# exercise 2
+A = np.array([
+        [2, 5],
+        [8, 1]
+    ], dtype=np.dtype(float))
+
+b = np.array([46, 32], dtype=np.dtype(float))
+
+print("Matrix A:")
+print(A)
+print("\nArray b:")
+print(b)
+
+A_system = np.hstack((A, b.reshape((2, 1))))
+
+print(A_system)
+
+A_system_res = A_system.copy()
+
+A_system_res[1] = -4 * A_system_res[0] + A_system_res[1]
+
+A_system_res[1] = 1/-19 * A_system_res[1]
+
+
+a  = 3
