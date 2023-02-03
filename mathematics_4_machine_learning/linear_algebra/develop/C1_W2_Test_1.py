@@ -56,17 +56,6 @@ b = np.array([10000, 26000], dtype=int)
 np.linalg.solve(A, b)
 
 
-# He wants to invest his USD $10,000 savings in these three accounts.
-# By doing so, he knows that
-# after a year he would receive a total of US $ 260 in interest if
-# he put
-# twice as much money in the savings account
-# as in the CDs, and “z” money in bonds.
-# Calculate the value of “z” , in USD, using the elimination method.
-
-# interest = 260
-# amount
-
 
 
 
