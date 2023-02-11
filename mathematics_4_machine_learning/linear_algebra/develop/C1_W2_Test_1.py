@@ -57,5 +57,41 @@ np.linalg.solve(A, b)
 
 
 
+# 7. The following system of equations is solved using the method of elimination:
+
+A = np.array([7, 5, 3, 3, 2, 5, 1, 2, 1]).reshape(3, 3)
+
+b = np.array([120, 70, 20], dtype=int)
+
+matrix_is_singular(A)
+
+np.linalg.det(A)
+
+# solve the linear system and round the result to 2 decimal places
+res = np.linalg.solve(A, b)
+
+# compute rank of A
+np.linalg.matrix_rank(A)
+
+B = np.array([0, 1, 1, 2, 4, 2, 1, 2, 1], dtype=int).reshape(3, 3)
+C = np.array([7.5, 5, 12.5, 3, 2, 5, 0, 0, 0], dtype=int).reshape(3, 3)
+
+np.linalg.matrix_rank(C)
+
+A_test = A.copy()
+
+A_test[0] = A_test[0] * 3
+
+A_test[0, 1]
+
+
+A = np.array([
+        [2, -1, 1, 1],
+        [1, 2, -1, -1],
+        [-1, 2, 2, 2],
+        [1, -1, 2, 1]
+    ], dtype=np.dtype(float))
+b = np.array([6, 3, 14, 8], dtype=np.dtype(float))
+
 
 
