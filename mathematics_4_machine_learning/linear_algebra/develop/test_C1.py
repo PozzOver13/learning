@@ -3,8 +3,6 @@ import numpy as np
 
 from mathematics_4_machine_learning.linear_algebra.utils import augmented_to_ref
 
-
-# create a test for augmented_to_ref function
 class TestClass(unittest.TestCase):
     def test_augmented_to_ref(self):
         A = np.array([
