@@ -3,6 +3,7 @@ import numpy as np
 
 from mathematics_4_machine_learning.linear_algebra.utils import augmented_to_ref
 
+
 # create a test for augmented_to_ref function
 class TestClass(unittest.TestCase):
     def test_augmented_to_ref(self):
@@ -25,3 +26,64 @@ class TestClass(unittest.TestCase):
         print(np.linalg.solve(A_ref[:, :4], np.array([3, 22, 7, 1], dtype=np.dtype(float))))
 
         self.assertTrue(np.allclose(A_out, A_ref))
+
+    def test_distance(self):
+        A = np.array([1, 0, 7])
+        B = np.array([0, -1, 2])
+
+        print(np.linalg.norm(A))
+        print(np.linalg.norm(B))
+        print(np.linalg.norm(A - B))
+
+    def test_maximum_norm(self):
+        A = np.array([0, 0, 0, 0])
+        B = np.array([1, 0, -2, 0, 1])
+        C = np.array([1, 2, 3])
+        D = np.array([2, 2, 2, 2])
+        E = np.array([2, 5])
+
+        print(np.linalg.norm(A, ord=np.inf))
+        print(np.linalg.norm(B, ord=np.inf))
+        print(np.linalg.norm(C, ord=np.inf))
+        print(np.linalg.norm(D, ord=np.inf))
+        print(np.linalg.norm(E, ord=np.inf))
+
+
+    def test_dot_product_on_vectors(self):
+        def dot_product(A, B):
+            dotp = 0
+            for x, y in zip(A, B):
+                print(x * y)
+                dotp += x * y
+
+            return dotp
+
+        A = np.array([-1, 5, 2])
+        B = np.array([-3, 6, -4])
+        res = dot_product(A, B)
+        print(res)
+
+    def test_dot_product_on_matrices(self):
+        A = np.array([
+            [2, -1],
+            [3, -3]
+        ])
+        B = np.array([
+            [5, -2],
+            [0, 1]
+        ])
+        print(A)
+        print(B)
+
+        for i in range(A.shape[0]):
+            for j in range(B.shape[1]):
+                print(A[i, :] * B[:, j])
+                print(np.sum(A[i, :] * B[:, j]))
+
+    def test_single_dot_product(self):
+        A = np.array([-9, -1])
+        B = np.array([-3, -5])
+        print(A)
+        print(B)
+        print(A * B)
+        print(np.sum(A * B))
