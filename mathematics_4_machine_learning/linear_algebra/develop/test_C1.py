@@ -1,10 +1,11 @@
 import unittest
 import numpy as np
+import numpy.linalg as la
 
 from mathematics_4_machine_learning.linear_algebra.utils import augmented_to_ref
 
 
-class TestClass(unittest.TestCase):
+class TestLinearAlgebraQuiz(unittest.TestCase):
     def test_augmented_to_ref(self):
         A = np.array([
             [2, -1, 1, 1],
@@ -22,7 +23,7 @@ class TestClass(unittest.TestCase):
         A_out = augmented_to_ref(A, b)
         print(A_out)
         print(A_ref)
-        print(np.linalg.solve(A_ref[:, :4], np.array([3, 22, 7, 1], dtype=np.dtype(float))))
+        print(la.solve(A_ref[:, :4], np.array([3, 22, 7, 1], dtype=np.dtype(float))))
 
         self.assertTrue(np.allclose(A_out, A_ref))
 
@@ -30,9 +31,9 @@ class TestClass(unittest.TestCase):
         A = np.array([1, 0, 7])
         B = np.array([0, -1, 2])
 
-        print(np.linalg.norm(A))
-        print(np.linalg.norm(B))
-        print(np.linalg.norm(A - B))
+        print(la.norm(A))
+        print(la.norm(B))
+        print(la.norm(A - B))
 
     def test_maximum_norm(self):
         A = np.array([0, 0, 0, 0])
@@ -41,11 +42,11 @@ class TestClass(unittest.TestCase):
         D = np.array([2, 2, 2, 2])
         E = np.array([2, 5])
 
-        print(np.linalg.norm(A, ord=np.inf))
-        print(np.linalg.norm(B, ord=np.inf))
-        print(np.linalg.norm(C, ord=np.inf))
-        print(np.linalg.norm(D, ord=np.inf))
-        print(np.linalg.norm(E, ord=np.inf))
+        print(la.norm(A, ord=np.inf))
+        print(la.norm(B, ord=np.inf))
+        print(la.norm(C, ord=np.inf))
+        print(la.norm(D, ord=np.inf))
+        print(la.norm(E, ord=np.inf))
 
     def test_dot_product_on_vectors(self):
         def dot_product(A, B):
@@ -92,7 +93,7 @@ class TestClass(unittest.TestCase):
             [1, 0, 1],
             [0, 1, 0]
         ])
-        print(np.linalg.det(A))
+        print(la.det(A))
 
     def test_inverse(self):
         A = np.array([
@@ -100,7 +101,7 @@ class TestClass(unittest.TestCase):
             [1, 0, 1],
             [0, 1, 0]
         ])
-        print(np.linalg.inv(A))
+        print(la.inv(A))
 
     def test_inverse_multiply_by_identity_matrix(self):
         A = np.array([
@@ -108,14 +109,14 @@ class TestClass(unittest.TestCase):
             [1, 0, 1],
             [0, 1, 0]
         ])
-        A_inv = np.linalg.inv(A)
+        A_inv = la.inv(A)
         # identity matrix
         I = np.eye(3)
         print(A_inv @ I)
 
     def test_identity_matrix_is_singular(self):
         I = np.eye(3)
-        print(np.linalg.det(I))
+        print(la.det(I))
 
     def test_linear_transformation(self):
         W = np.array([
@@ -125,7 +126,7 @@ class TestClass(unittest.TestCase):
         ])
         v = np.array([5, -2, 0])
         print(W @ v)
-        print(np.linalg.det(W))
+        print(la.det(W))
 
 
     def test_column_as_vectors_multiplication(self):
@@ -152,14 +153,14 @@ class TestClass(unittest.TestCase):
         ])
         AB = A @ B
         print(AB)
-        print(round(np.linalg.det(np.linalg.inv(AB)), 2))
+        print(round(la.det(la.inv(AB)), 2))
 
     def test_extract_eigenvalues_and_eigenvectors_from_matrix(self):
         A = np.array([
             [9, 4],
             [4, 3]
         ])
-        w, v = np.linalg.eig(A)
+        w, v = la.eig(A)
         print('eigenvalues')
         print(w)
         print('eigenvectors')
