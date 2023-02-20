@@ -3,6 +3,7 @@ import numpy as np
 
 from mathematics_4_machine_learning.linear_algebra.utils import augmented_to_ref
 
+
 class TestClass(unittest.TestCase):
     def test_augmented_to_ref(self):
         A = np.array([
@@ -46,7 +47,6 @@ class TestClass(unittest.TestCase):
         print(np.linalg.norm(D, ord=np.inf))
         print(np.linalg.norm(E, ord=np.inf))
 
-
     def test_dot_product_on_vectors(self):
         def dot_product(A, B):
             dotp = 0
@@ -85,3 +85,83 @@ class TestClass(unittest.TestCase):
         print(B)
         print(A * B)
         print(np.sum(A * B))
+
+    def test_determinant(self):
+        A = np.array([
+            [1, 2, -1],
+            [1, 0, 1],
+            [0, 1, 0]
+        ])
+        print(np.linalg.det(A))
+
+    def test_inverse(self):
+        A = np.array([
+            [1, 2, -1],
+            [1, 0, 1],
+            [0, 1, 0]
+        ])
+        print(np.linalg.inv(A))
+
+    def test_inverse_multiply_by_identity_matrix(self):
+        A = np.array([
+            [1, 2, -1],
+            [1, 0, 1],
+            [0, 1, 0]
+        ])
+        A_inv = np.linalg.inv(A)
+        # identity matrix
+        I = np.eye(3)
+        print(A_inv @ I)
+
+    def test_identity_matrix_is_singular(self):
+        I = np.eye(3)
+        print(np.linalg.det(I))
+
+    def test_linear_transformation(self):
+        W = np.array([
+            [1, 2, -1],
+            [1, 0, 1],
+            [0, 1, 0]
+        ])
+        v = np.array([5, -2, 0])
+        print(W @ v)
+        print(np.linalg.det(W))
+
+
+    def test_column_as_vectors_multiplication(self):
+        Z = np.array([
+            [3, 5, 2],
+            [1, 2, 2],
+            [-7, 1, 0]
+        ])
+        # extract the first column and the third column as separate vectors
+        v0 = Z[:, 0]
+        v2 = Z[:, 2]
+        print(v0 @ v2)
+
+    def test_3d_matrix_multilplication(self):
+        A = np.array([
+            [5, 2, 3],
+            [-1, -3, 2],
+            [0, 1, -1]
+        ])
+        B = np.array([
+            [1, 0, -4],
+            [2, 1, 0],
+            [8, -1, 0]
+        ])
+        AB = A @ B
+        print(AB)
+        print(round(np.linalg.det(np.linalg.inv(AB)), 2))
+
+    def test_extract_eigenvalues_and_eigenvectors_from_matrix(self):
+        A = np.array([
+            [9, 4],
+            [4, 3]
+        ])
+        w, v = np.linalg.eig(A)
+        print('eigenvalues')
+        print(w)
+        print('eigenvectors')
+        print(v)
+
