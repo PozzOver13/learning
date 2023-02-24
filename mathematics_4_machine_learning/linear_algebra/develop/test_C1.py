@@ -1,6 +1,9 @@
 import unittest
 import numpy as np
 import numpy.linalg as la
+import sympy as sp
+
+sp.init_printing(use_unicode=True)
 
 from mathematics_4_machine_learning.linear_algebra.utils import augmented_to_ref
 
@@ -128,7 +131,6 @@ class TestLinearAlgebraQuiz(unittest.TestCase):
         print(W @ v)
         print(la.det(W))
 
-
     def test_column_as_vectors_multiplication(self):
         Z = np.array([
             [3, 5, 2],
@@ -166,3 +168,50 @@ class TestLinearAlgebraQuiz(unittest.TestCase):
         print('eigenvectors')
         print(v)
 
+    def test_extract_eigenvalues_and_eigenvectors_from_matrix2(self):
+        A = np.array([
+            [2, 1],
+            [-3, 6]
+        ])
+        w, v = la.eig(A)
+        print('eigenvalues')
+        print(w)
+        print('eigenvectors')
+        print(v)
+
+    def test_extract_eigenvalues_and_eigenvectors_from_matrix3(self):
+        A = sp.Matrix([
+            [1, 2],
+            [0, 4]
+        ])
+        print('eigenvalues')
+        print(A.eigenvects()[0][0], A.eigenvects()[1][0])
+        print('eigenvectors')
+        print(A.eigenvects()[0][2], A.eigenvects()[1][2])
+
+    def test_matrix_transformation(self):
+        A = np.array([
+            [1, 2],
+            [3, 4]
+        ])
+        # define a matrix to reflect through the y-axis
+        R = np.array([
+            [-1, 0],
+            [0, 1]
+        ])
+        # define a matrix to shear along the x-axis by 0.5
+        S = np.array([
+            [1, 0.5],
+            [0, 1]
+        ])
+        # define a matrix where all elements on the main diagonal should be equal to 0 and the entries in each column must add to one with n=5
+        P = np.array([
+            [0, 0.2, 0.2, 0.3, 0.5],
+            [0.3, 0, 0.2, 0.5, 0.25],
+            [0.3, 0.25, 0, 0.15, 0.1],
+            [0.35, 0.5, 0.2, 0, 0.15],
+            [0.05, 0.05, 0.4, 0.05, 0]
+        ])
+
+        # check that all columns sum to 1
+        print(np.sum(P, axis=0))
