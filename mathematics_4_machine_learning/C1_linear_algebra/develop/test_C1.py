@@ -5,7 +5,7 @@ import sympy as sp
 
 sp.init_printing(use_unicode=True)
 
-from mathematics_4_machine_learning.linear_algebra.utils import augmented_to_ref
+from mathematics_4_machine_learning.C1_linear_algebra.utils import augmented_to_ref
 
 
 class TestLinearAlgebraQuiz(unittest.TestCase):
