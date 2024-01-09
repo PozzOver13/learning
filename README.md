@@ -2,6 +2,10 @@
 
 Learning repository
 
+## Data Processing 🛠️
+
+Repository for data manipulation and processing libraries and techniques.
+
 ## Kindle Highlights 📚
 
 Repository for my Kindle highlights
@@ -9,6 +13,7 @@ Repository for my Kindle highlights
 ## Mathematics for Machine Learning & Data Science 🔢
 
 Repository for my notes and code for the course [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science/) by [DeepLearning.ai & Luis Serrano](https://www.coursera.org/instructor/luis-serrano) on Coursera.
+
 
 ## Time Series 📈
 
