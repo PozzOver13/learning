@@ -2,6 +2,10 @@
 
 Learning repository
 
+## CrewAI 🤖
+
+Repository for my notes and code
+
 ## Data Processing 🛠️
 
 Repository for data manipulation and processing libraries and techniques.
