@@ -18,6 +18,9 @@ Repository for my Kindle highlights
 
 Repository for my notes and code for the course [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science/) by [DeepLearning.ai & Luis Serrano](https://www.coursera.org/instructor/luis-serrano) on Coursera.
 
+## Stats & Probability 🎲
+
+Repository for statistics and probability libraries and techniques.
 
 ## Time Series 📈
 
