@@ -2,6 +2,10 @@
 
 Learning repository
 
+## Bayesian Statistics 🎲
+
+Repository for my notes and code for the book Bayesian Modeling and Computation in Python by Osvlado A. Martin, Ravin Kumar, and Junpeng Lao.
+
 ## CrewAI 🤖
 
 Repository for my notes and code
