@@ -1,9 +1,11 @@
 from scipy import stats
 
+
 def test_prior_beta_11():
     θ = 0.5
     prior = stats.beta(1, 1).pdf(θ).round(2)
     assert prior == 1
+
 
 def test_likelihood():
     θ = 0.5
@@ -31,7 +33,7 @@ def test_metropolis_hastings_algo():
 
     pa = p1 / p2
 
-    condition = pa > 0.5 # stats.uniform(0, 1).rvs(1)
+    condition = pa > 0.5  # stats.uniform(0, 1).rvs(1)
 
     print("\n----\nMetropolis-Hastings Algorithm")
     print(f"initial θ: {θ}, sampled θ: {θ_mh}")
