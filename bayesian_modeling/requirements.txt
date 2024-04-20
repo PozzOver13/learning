@@ -1,0 +1,8 @@
+arviz==0.11.2
+graphviz-2.50.0
+jupyter==1.0.0
+matplotlib==3.4.3
+numpy==1.22.1
+pandas==2.0.3
+pymc3==3.11.5
+scipy==1.7.3
