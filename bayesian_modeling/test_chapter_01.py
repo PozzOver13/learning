@@ -42,3 +42,22 @@ def test_metropolis_hastings_algo():
     print("accepted = ", condition)
 
     assert condition == True
+
+
+def test_beta_binomial_pymc3():
+    import pymc3 as pm
+
+    θ_target = 0.7
+    Y = stats.bernoulli(θ_target).rvs(20)
+
+    with pm.Model() as model:
+        # Specify the prior distribution of unknown parameter
+        θ = pm.Beta("θ", alpha=1, beta=1)
+
+        # Specify the likelihood distribution and condition on the observed data
+        y_obs = pm.Binomial("y_obs", n=1, p=θ, observed=Y)
+
+        # Sample from the posterior distribution
+        idata = pm.sample(1000, return_inferencedata=True)
+
+    assert True
