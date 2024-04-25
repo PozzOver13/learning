@@ -1,9 +1,9 @@
 # Bayesian Modeling and Computation in Python
 
 Authors:
-- Osvlado A. Martin, 
-- Ravin Kumar
-- Junpeng Lao
+- Osvlado A. Martin: researcher at the National Scientific and Technical Research Council (CONICET) and contributor to open source projects for Bayesian statistics. 
+- Ravin Kumar: Data Scientist @ Google working on Gemini and contributor to open source projects for Bayesian statistics. 
+- Junpeng Lao: Data Scientist @ Google working on Gemini and contributor of PyMC3 and TensorFlow probability.
    
 GitHub:  
 - https://github.com/BayesianModelingandComputationInPython/BookCode_Edition1/tree/main
