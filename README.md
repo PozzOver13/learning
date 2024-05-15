@@ -6,10 +6,6 @@ Learning repository
 
 Repository for my notes and code for the book Bayesian Modeling and Computation in Python by Osvlado A. Martin, Ravin Kumar, and Junpeng Lao.
 
-## CrewAI 🤖
-
-Repository for my notes and code
-
 ## Data Processing 🛠️
 
 Repository for data manipulation and processing libraries and techniques.
@@ -17,6 +13,10 @@ Repository for data manipulation and processing libraries and techniques.
 ## Kindle Highlights 📚
 
 Repository for my Kindle highlights
+
+## LLM 🤖
+
+Repository for my notes and code on LLM and relative libraries
 
 ## Mathematics for Machine Learning & Data Science 🔢
 

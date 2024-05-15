@@ -1,5 +1,5 @@
 import os
-from crewai import Agent, Task, Crew, Process
+from llm import Agent, Task, Crew, Process
 
 os.environ["OPENAI_API_KEY"] = "YOUR KEY HERE"
 
