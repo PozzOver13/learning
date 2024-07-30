@@ -1,28 +1,29 @@
-from PyPDF2 import PdfReader, PdfWriter
+from PyPDF2 import PdfReader, PdfWriter, PdfFileReader, PdfFileWriter
 
 PATH_PDF_INPUT = "Quest Furto.pdf"
 PATH_PDF_OUTPUT = "Quest Furto UPDATE.pdf"
 
+
+def extract_pages(input_pdf_path, output_pdf_path, pages_to_extract):
+    # Open the input PDF file
+    with open(input_pdf_path, "rb") as input_pdf_file:
+        reader = PdfReader(input_pdf_file)
+        writer = PdfWriter()
+
+        # Loop through the specified pages and add them to the writer
+        for page_num in pages_to_extract:
+            if page_num < len(reader.pages):
+                page = reader.pages[page_num]
+                writer.add_page(page)
+            else:
+                print(f"Page number {page_num} is out of range. The document has {len(reader.pages)} pages.")
+
+        # Write the output PDF file
+        with open(output_pdf_path, "wb") as output_pdf_file:
+            writer.write(output_pdf_file)
+        print(f"Extracted pages saved to {output_pdf_path}")
+
 if __name__ == "__main__":
-    reader = PdfReader(PATH_PDF_INPUT)
-    number_of_pages = len(reader.pages)
-    page = reader.pages[0]
-    text = page.extract_text()
+    pages_to_extract = [4, 5, 6]  # List of pages to extract (0-indexed)
 
-
-    for id, i in enumerate(text.split("\n")):
-        print(id, i)
-
-    modified_text = '\n'.join(lines)
-    page.mergePage(PyPDF2.PdfFileReader(
-        PyPDF2.PdfFileWriter().add_blank_page(
-            width=page.mediaBox.getWidth(),
-            height=page.mediaBox.getHeight()
-        ).getPage(0)
-    ).add_page(page))
-    page.mergeTextFrame(PyPDF2.PdfTextWriter().begin_text_frame().write_text(modified_text).end_text_frame())
-
-    # write PDF output
-    writer = PdfWriter()
-    writer.add_page(page)
-    writer.write(PATH_PDF_OUTPUT)
+    extract_pages(PATH_PDF_INPUT, PATH_PDF_OUTPUT, pages_to_extract)
