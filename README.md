@@ -10,6 +10,10 @@ Repository for my notes and code for the book Bayesian Modeling and Computation 
 
 Repository for data manipulation and processing libraries and techniques.
 
+## Data Visualization 📊
+
+Repository for data visualization libraries and techniques.
+
 ## Kindle Highlights 📚
 
 Repository for my Kindle highlights
