@@ -6,6 +6,10 @@ Learning repository
 
 Repository for my notes and code for the book Bayesian Modeling and Computation in Python by Osvlado A. Martin, Ravin Kumar, and Junpeng Lao.
 
+## Book Review 📚
+
+Repository for my notes and summaries of interesting books.
+
 ## Data Processing 🛠️
 
 Repository for data manipulation and processing libraries and techniques.
